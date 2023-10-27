@@ -1,4 +1,7 @@
-**`Balaharish (Developer/Footballer/Explorer)`**
+#  BALAHARISH SAMYNATHAN
+
+
+**`(Developer/Footballer/Explorer)`**
 
 I am a kinda person who's always inquisitive about Technology and fond of moving further. I am very much interested in cloud computing and its dialects. I get to practice different frameworks and new techs everyday which pushes my scope wider everytime. Currently I am more focused on salesforce.
 
